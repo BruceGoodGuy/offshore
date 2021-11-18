@@ -53,10 +53,6 @@
                 <div class="section-title text-center">
                   <span> Get in Touch </span>
                   <h2>Ready to Get Started</h2>
-                  <p>
-                    At vero eos et accusamus et iusto odio dignissimos ducimus
-                    quiblanditiis praesentium
-                  </p>
                 </div>
               </div>
             </div>

@@ -7,7 +7,16 @@
           <div class="header-content">
             <h1>SYSTEMEXE VIETNAM COMPANY LIMITED</h1>
             <p>
-              We create Japanese quality products for customers around the world from the hands of Vietnamese people
+              We create Japanese quality products for customers around the world
+              from the hands of Vietnamese people
+            </p>
+            <p class="mt-0">
+              Hybrid Offshore structure provides the highest efficiency and
+              quality. It can cover all stages of development, including design
+              analysis. Experience in implementing more than 100 projects for
+              top Japanese customers. The team is well-trained by Japanese
+              standards. Strict security environment, according to ISO27001
+              (ISMS).
             </p>
             <div class="button">
               <a
@@ -36,11 +45,8 @@
 </template>
 
 <script>
-export default {
-
-}
+export default {}
 </script>
 
 <style>
-
 </style>

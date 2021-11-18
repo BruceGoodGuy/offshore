@@ -30,6 +30,7 @@
           <div class="single-news">
             <div class="image">
               <a
+                class="w-100"
                 href="javascript:void(0)"
               ><img
                 class="thumb"
@@ -40,11 +41,11 @@
             <div class="content-body">
               <h4 class="title">
                 <a href="javascript:void(0)">
-                  Electronic medical record system development
+                  Production Management EXEX Software
                 </a>
               </h4>
               <p>
-                HTML5、Java、Angular JS
+                Java, Angular, PostgreSQL
               </p>
             </div>
           </div>
@@ -65,11 +66,11 @@
             <div class="content-body">
               <h4 class="title">
                 <a href="javascript:void(0)">
-                  Development of a medical accounting system
+                  HR ＆ Payroll Management EXEX Software
                 </a>
               </h4>
               <p>
-                COBOL
+                Java, Angular, PostgreSQL
               </p>
             </div>
           </div>
@@ -90,11 +91,11 @@
             <div class="content-body">
               <h4 class="title">
                 <a href="javascript:void(0)">
-                  Medical appointment system
+                  Sales Management EXE Software
                 </a>
               </h4>
               <p>
-                Java、SAStrut、Seasar、Oracle
+                Java, Angular, PostgreSQL
               </p>
             </div>
           </div>
@@ -108,18 +109,18 @@
                 href="javascript:void(0)"
               ><img
                 class="thumb"
-                src="assets/images/blog/3.jpg"
+                src="assets/images/blog/4.png"
                 alt="Blog"
               ></a>
             </div>
             <div class="content-body">
               <h4 class="title">
                 <a href="javascript:void(0)">
-                  Production control business package development (Own package)
+                  Salon Beauty Navi
                 </a>
               </h4>
               <p>
-                Java、Flex
+                Laravel, HTML, CSS, jQuery, MariaDB
               </p>
             </div>
           </div>
@@ -133,168 +134,18 @@
                 href="javascript:void(0)"
               ><img
                 class="thumb"
-                src="assets/images/blog/3.jpg"
+                src="assets/images/blog/5.png"
                 alt="Blog"
               ></a>
             </div>
             <div class="content-body">
               <h4 class="title">
                 <a href="javascript:void(0)">
-                  Migration of existing system
+                  Owners Mypage
                 </a>
               </h4>
               <p>
-                Access
-              </p>
-            </div>
-          </div>
-          <!-- End Single News -->
-        </div>
-        <div class="col-lg-4 col-md-6 col-12">
-          <!-- Single News -->
-          <div class="single-news">
-            <div class="image">
-              <a
-                href="javascript:void(0)"
-              ><img
-                class="thumb"
-                src="assets/images/blog/3.jpg"
-                alt="Blog"
-              ></a>
-            </div>
-            <div class="content-body">
-              <h4 class="title">
-                <a href="javascript:void(0)">
-                  FX / loan system development
-                </a>
-              </h4>
-              <p>
-                C#.net、K2フレームワーク
-              </p>
-            </div>
-          </div>
-          <!-- End Single News -->
-        </div>
-        <div class="col-lg-4 col-md-6 col-12">
-          <!-- Single News -->
-          <div class="single-news">
-            <div class="image">
-              <a
-                href="javascript:void(0)"
-              ><img
-                class="thumb"
-                src="assets/images/blog/3.jpg"
-                alt="Blog"
-              ></a>
-            </div>
-            <div class="content-body">
-              <h4 class="title">
-                <a href="javascript:void(0)">
-                  Insurance payment workflow system development
-                </a>
-              </h4>
-              <p>
-                ASP.NET、PL/SQL
-              </p>
-            </div>
-          </div>
-          <!-- End Single News -->
-        </div>
-        <div class="col-lg-4 col-md-6 col-12">
-          <!-- Single News -->
-          <div class="single-news">
-            <div class="image">
-              <a
-                href="javascript:void(0)"
-              ><img
-                class="thumb"
-                src="assets/images/blog/3.jpg"
-                alt="Blog"
-              ></a>
-            </div>
-            <div class="content-body">
-              <h4 class="title">
-                <a href="javascript:void(0)">
-                  Form management system development
-                </a>
-              </h4>
-              <p>
-                Java、PL/SQL
-              </p>
-            </div>
-          </div>
-          <!-- End Single News -->
-        </div>
-        <div class="col-lg-4 col-md-6 col-12">
-          <!-- Single News -->
-          <div class="single-news">
-            <div class="image">
-              <a
-                href="javascript:void(0)"
-              ><img
-                class="thumb"
-                src="assets/images/blog/3.jpg"
-                alt="Blog"
-              ></a>
-            </div>
-            <div class="content-body">
-              <h4 class="title">
-                <a href="javascript:void(0)">
-                  Development of core system for commercial facility management
-                </a>
-              </h4>
-              <p>
-                C#.NET、PL/SQL
-              </p>
-            </div>
-          </div>
-          <!-- End Single News -->
-        </div>
-        <div class="col-lg-4 col-md-6 col-12">
-          <!-- Single News -->
-          <div class="single-news">
-            <div class="image">
-              <a
-                href="javascript:void(0)"
-              ><img
-                class="thumb"
-                src="assets/images/blog/3.jpg"
-                alt="Blog"
-              ></a>
-            </div>
-            <div class="content-body">
-              <h4 class="title">
-                <a href="javascript:void(0)">
-                  大手WebサイトHTMLコーディング
-                </a>
-              </h4>
-              <p>
-                HTML、Javascript
-              </p>
-            </div>
-          </div>
-          <!-- End Single News -->
-        </div>
-        <div class="col-lg-4 col-md-6 col-12">
-          <!-- Single News -->
-          <div class="single-news">
-            <div class="image">
-              <a
-                href="javascript:void(0)"
-              ><img
-                class="thumb"
-                src="assets/images/blog/3.jpg"
-                alt="Blog"
-              ></a>
-            </div>
-            <div class="content-body">
-              <h4 class="title">
-                <a href="javascript:void(0)">
-                  iOS/Androidアプリケーション構築
-                </a>
-              </h4>
-              <p>
-                Java、Objective-C
+                Laravel, Agular, HTML, CSS, jQuery, MariaDB
               </p>
             </div>
           </div>

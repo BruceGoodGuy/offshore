@@ -10,3 +10,8 @@
 .contact-content{
     width: calc(100% - 75px);
 }
+
+#projects .single-news img{
+    max-height: 236px;
+    min-height: 236px;
+}
