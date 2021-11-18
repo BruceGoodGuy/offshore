@@ -1,0 +1,12 @@
+/* custom */
+.navbar-area.navbar-nine, .header-eight {
+    /* background-color: #931845; */
+}
+
+#nav-tabContent{
+    min-height: 200px;
+}
+
+.contact-content{
+    width: calc(100% - 75px);
+}
