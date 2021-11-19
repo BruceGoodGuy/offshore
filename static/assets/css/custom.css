@@ -15,3 +15,6 @@
     max-height: 236px;
     min-height: 236px;
 }
+#services .table-head{
+    min-height: 50px;
+}

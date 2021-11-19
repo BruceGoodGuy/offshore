@@ -12,10 +12,10 @@
             </p>
             <p class="mt-0">
               Hybrid Offshore structure provides the highest efficiency and
-              quality. It can cover all stages of development, including design
-              analysis. Experience in implementing more than 100 projects for
-              top Japanese customers. The team is well-trained by Japanese
-              standards. Strict security environment, according to ISO27001
+              quality. <br>It can cover all stages of development, including design
+              analysis. <br>Experience in implementing more than 100 projects for
+              top Japanese customers. <br>The team is well-trained by Japanese
+              standards. <br>Strict security environment, according to ISO27001
               (ISMS).
             </p>
             <div class="button">

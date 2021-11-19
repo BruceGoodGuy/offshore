@@ -12,7 +12,9 @@
                 Our Best Services
               </h2>
               <p>
-                At SystemEXE, we provide services to customers worldwide with the highest priority being to ensure quality to our own standards in Japan.
+                At SystemEXE, we provide services to customers worldwide with
+                the highest priority being to ensure quality to our own
+                standards in Japan.
               </p>
             </div>
           </div>
@@ -29,10 +31,12 @@
             <div class="table-head">
               <h5>IOT CONSULTING SERVICES</h5>
             </div>
-
+            <br>
             <div class="table-content">
               <ul class="table-list">
-                <li>1. Gather information, requirements, wishes of customers</li>
+                <li>
+                  1. Gather information, requirements, wishes of customers
+                </li>
                 <li>2. Come up with a complete solution</li>
                 <li>3. Prepare to deploy</li>
                 <li>4. Put it into action</li>
@@ -46,14 +50,20 @@
             <div class="table-head">
               <h5>DIGITAL TRANSFER CONSULTING SERVICES</h5>
             </div>
-
+            <br>
             <div class="table-content">
               <ul class="table-list">
                 <li>1. Analyze to find out what the business wants</li>
-                <li>2. Come up with the most suitable and optimal solution for your business</li>
+                <li>
+                  2. Come up with the most suitable and optimal solution for
+                  your business
+                </li>
                 <li>3. Identify the solution and plan the implementation</li>
                 <li>4. Deployment and project management</li>
-                <li>5. Acceptance of digital transformation results of enterprises;</li>
+                <li>
+                  5. Acceptance of digital transformation results of
+                  enterprises;
+                </li>
                 <li>6. Operational Support</li>
               </ul>
             </div>
@@ -86,16 +96,21 @@
             <br>
             <div class="table-content">
               <ul class="table-list">
-                <li>The service to provide resources</li>
-                <li>Construction, operation and maintenance of business applications</li>
-                <li>VB6 migration service /Migration service from Flex to HTML5</li>
-                <li>Operation confirmation and OS / middleware migration</li>
-                <li>Cloud environment construction</li>
-                <li>Programming of general-purpose machine COBOL</li>
-                <li>Building a Website with WordPress</li>
-                <li>Building a EC site</li>
-                <li>Coding HTML of Website</li>
-                <li>Building applications for smart devices</li>
+                <li>1. The service to provide resources</li>
+                <li>
+                  2. Construction, operation and maintenance of business
+                  applications
+                </li>
+                <li>
+                  3. VB6 migration service /Migration service from Flex to HTML5
+                </li>
+                <li>4. Operation confirmation and OS / middleware migration</li>
+                <li>5. Cloud environment construction</li>
+                <li>6. Programming of general-purpose machine COBOL</li>
+                <li>7. Building a Website with WordPress</li>
+                <li>8. Building a EC site</li>
+                <li>9. Coding HTML of Website</li>
+                <li>10. Building applications for smart devices</li>
               </ul>
             </div>
           </div>
@@ -108,11 +123,8 @@
 </template>
 
 <script>
-export default {
-
-}
+export default {}
 </script>
 
 <style>
-
 </style>
