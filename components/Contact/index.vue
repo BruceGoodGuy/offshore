@@ -25,8 +25,8 @@
                   </div>
                   <div class="contact-content">
                     <h4>Address</h4>
-                    <p>2nd Floor, E-Town Building 1 </p>
-                    <p>364 Cong Hoa, Tan Binh District, HCM, Vietnam.</p>
+                    <p>2nd Floor, E-Town Building 1</p>
+                    <p>364 Cong Hoa Street, Tan Binh District, HCMC, Vietnam.</p>
                     <!-- <p>Hanoi office: 4th floor, Sun Ancore building, 3 Luong Yen, Bach Dang ward, Hai Ba Trung district, Hanoi, Vietnam.</p> -->
                   </div>
                 </div>

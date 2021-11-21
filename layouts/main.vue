@@ -7,7 +7,7 @@
           <div class="col-lg-12">
             <nav class="navbar navbar-expand-lg">
               <nuxt-link class="navbar-brand" to="/">
-                <img height="50px" src="assets/images/exe.png" alt="Logo">
+                <img height="50px" src="assets/images/exe-white.png" alt="Logo">
               </nuxt-link>
               <button
                 class="navbar-toggler"

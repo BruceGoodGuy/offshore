@@ -62,7 +62,7 @@
                 <li>4. Deployment and project management</li>
                 <li>
                   5. Acceptance of digital transformation results of
-                  enterprises;
+                  enterprises
                 </li>
                 <li>6. Operational Support</li>
               </ul>
@@ -102,9 +102,9 @@
                   applications
                 </li>
                 <li>
-                  3. VB6 migration service /Migration service from Flex to HTML5
+                  3. VB6 migration service/Migration service from Flex to HTML5
                 </li>
-                <li>4. Operation confirmation and OS / middleware migration</li>
+                <li>4. Operation confirmation and OS/middleware migration</li>
                 <li>5. Cloud environment construction</li>
                 <li>6. Programming of general-purpose machine COBOL</li>
                 <li>7. Building a Website with WordPress</li>

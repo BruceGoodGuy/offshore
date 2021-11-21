@@ -291,7 +291,7 @@
             <div class="content-body">
               <h4 class="title">
                 <a href="javascript:void(0)">
-                  FX / loan system development
+                  FX/loan system development
                 </a>
               </h4>
               <p>
